@@ -15,13 +15,17 @@ Make sure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/HSP918/Front-end-assginment/
+   
 2.  Navigate to the porject directory
+    ```bash
     cd project-name
-3.Install the Dependencies
-  npm install
+3. Install the Dependencies
+   ```bash
+   npm install
 
 #Usage
 1. Start the development server:
+   ```bash
     npm start
 
 
