@@ -37,5 +37,5 @@ Make sure you have the following installed on your machine:
   ```bash
 npm run build 
 
-2.This will create a build directory with the production-ready files. You can then host these files on a web server of your choice.
+2. This will create a build directory with the production-ready files. You can host these files on a web server of your choice.
 
