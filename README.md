@@ -35,7 +35,5 @@ Make sure you have the following installed on your machine:
 
 1. To build the optimized and minified version of the project for deployment, run the following command:
   ```bash
-npm run build 
-
-2. This will create a build directory with the production-ready files. You can host these files on a web server of your choice.
+npm run build
 
