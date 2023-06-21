@@ -37,6 +37,7 @@ To build the optimized and minified version of the project for deployment, run t
  ```bash
 npm run build
 
+
 This will create a build directory with the production-ready files. You can then host these files on a web server of your choice.
 
 
