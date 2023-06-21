@@ -23,11 +23,20 @@ Make sure you have the following installed on your machine:
    ```bash
    npm install
 
-#Usage
+##Usage
+
 1. Start the development server:
    ```bash
     npm start
 2. Open your browser and visit http://localhost:3000 to see the application.
 3. Start making changes to the code. The application will automatically reload if you make any edits.
-#Deployment
+
+##Deployment
+To build the optimized and minified version of the project for deployment, run the following command:
+ ```bash
+npm run build
+
+This will create a build directory with the production-ready files. You can then host these files on a web server of your choice.
+
+
 
