@@ -36,5 +36,3 @@ Make sure you have the following installed on your machine:
 1. To build the optimized and minified version of the project for deployment, run the following command:
     ```bash
     npm run build
-
-
