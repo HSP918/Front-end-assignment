@@ -27,5 +27,7 @@ Make sure you have the following installed on your machine:
 1. Start the development server:
    ```bash
     npm start
-
+2. Open your browser and visit http://localhost:3000 to see the application.
+3. Start making changes to the code. The application will automatically reload if you make any edits.
+#Deployment
 
