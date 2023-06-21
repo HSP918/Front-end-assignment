@@ -14,4 +14,14 @@ Make sure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/HSP918/Front-end-assginment/
+2.  Navigate to the porject directory
+    cd project-name
+3.Install the Dependencies
+  npm install
+
+#Usage
+1. Start the development server:
+    npm start
+
+
