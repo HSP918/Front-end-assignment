@@ -1,6 +1,6 @@
 # Front-end-assignment
 
-Short description of your project.
+This is the assignment of Front-end engineer role given by Volopay.
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ Make sure you have the following installed on your machine:
 ## Deployment
 
 1. To build the optimized and minified version of the project for deployment, run the following command:
-  ```bash
-npm run build
+    ```bash
+    npm run build
 
 
