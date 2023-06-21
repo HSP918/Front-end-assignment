@@ -37,3 +37,10 @@ Make sure you have the following installed on your machine:
   ```bash
 npm run build
 
+## Live Demo
+
+## Live Demo
+
+Check out the live version of the app https://fe-assignment-vpay.netlify.app/.
+
+
